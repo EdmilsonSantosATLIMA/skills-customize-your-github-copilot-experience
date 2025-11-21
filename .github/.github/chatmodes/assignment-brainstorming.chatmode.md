@@ -1,6 +1,6 @@
 ---
 description: 💡 Assistente de brainstorm de tarefas
-tools: ["codebase", "search"]
+tools: [ "search"]
 ---
 
 # 💡 Assistente de Brainstorm de Tarefas
