@@ -59,5 +59,20 @@
         }
       ]
     }
+    ,
+    {
+      "id": "construindo-apis-fastapi",
+      "title": "Construindo APIs REST com FastAPI",
+      "description": "Criar uma API RESTful simples usando FastAPI, incluindo rotas CRUD e validação com Pydantic.",
+      "path": "assignments/construindo-apis-fastapi",
+      "dueDate": "2025-11-28",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }
